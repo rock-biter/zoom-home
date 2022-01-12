@@ -15,7 +15,7 @@ body {
 }
 
 header {
-  
+  flex-wrap: wrap;
   padding: 10px;
   display: flex;
   justify-content: space-between;
